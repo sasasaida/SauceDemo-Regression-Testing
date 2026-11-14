@@ -44,7 +44,7 @@ SauceDemo-Regression-Testing/
 Before running the Python tests, install:
 
 1. Python 3.10 or later.
-2. Google Chrome browser.
+2. Google Chrome browser or Microsoft Edge.
 3. Git (if cloning the repository).
 
 Selenium Manager can automatically manage the required browser driver in supported Selenium versions.
@@ -56,7 +56,7 @@ Selenium Manager can automatically manage the required browser driver in support
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SauceDemo-Regression-Testing.git
+git clone https://github.com/sasasaida/SauceDemo-Regression-Testing.git
 ```
 
 Navigate into the project directory:
